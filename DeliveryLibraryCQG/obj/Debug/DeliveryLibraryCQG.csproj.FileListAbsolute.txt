@@ -1,0 +1,5 @@
+C:\Users\Danilius\documents\visual studio 2010\Projects\DeliveryLibraryCQG\DeliveryLibraryCQG\obj\Debug\DeliveryLibraryCQG.csprojResolveAssemblyReference.cache
+C:\Users\Danilius\documents\visual studio 2010\Projects\DeliveryLibraryCQG\DeliveryLibraryCQG\bin\Debug\DeliveryLibraryCQG.dll
+C:\Users\Danilius\documents\visual studio 2010\Projects\DeliveryLibraryCQG\DeliveryLibraryCQG\bin\Debug\DeliveryLibraryCQG.pdb
+C:\Users\Danilius\documents\visual studio 2010\Projects\DeliveryLibraryCQG\DeliveryLibraryCQG\obj\Debug\DeliveryLibraryCQG.dll
+C:\Users\Danilius\documents\visual studio 2010\Projects\DeliveryLibraryCQG\DeliveryLibraryCQG\obj\Debug\DeliveryLibraryCQG.pdb
