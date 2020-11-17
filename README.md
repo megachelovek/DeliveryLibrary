@@ -1,6 +1,6 @@
 # Delivery library
 
-Test task. Implemented delivery library. 
+Test task. Implemented delivery library (Code needs to be rafactored).
 
 ### Technology stack / Libraries
   - C#
